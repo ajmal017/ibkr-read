@@ -1,4 +1,4 @@
-# algotrade
+# ibkr-read
 
 ## Prerequisites
 
