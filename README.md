@@ -1,5 +1,8 @@
 # ibkr-read
 
+This app grabs forex data through Interactive Brokers Gateway using Python
+
+
 ## Prerequisites
 
 - Download anaconda: https://docs.anaconda.com/anaconda/install/mac-os/
