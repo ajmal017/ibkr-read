@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/hochiho/anaconda3/envs/ibkr-read/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
